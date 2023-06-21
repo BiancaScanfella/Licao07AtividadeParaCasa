@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\Atividade07Sesara\Atividade07Sesara\bin\Debug\Atividade07Sesara.exe.config
+C:\Users\bianca.ascanfella\source\repos\Atividade07Sesara\Atividade07Sesara\bin\Debug\Atividade07Sesara.exe
+C:\Users\bianca.ascanfella\source\repos\Atividade07Sesara\Atividade07Sesara\bin\Debug\Atividade07Sesara.pdb
+C:\Users\bianca.ascanfella\source\repos\Atividade07Sesara\Atividade07Sesara\obj\Debug\Atividade07Sesara.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\Atividade07Sesara\Atividade07Sesara\obj\Debug\Atividade07Sesara.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\Atividade07Sesara\Atividade07Sesara\obj\Debug\Atividade07Sesara.exe
+C:\Users\bianca.ascanfella\source\repos\Atividade07Sesara\Atividade07Sesara\obj\Debug\Atividade07Sesara.pdb
